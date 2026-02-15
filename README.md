@@ -96,7 +96,7 @@ Deployment with Streamlit
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Linear_Regression.git
+git clone https://github.com/vinayagamvarshini65-create/Linear_Regression.git
 cd Linear_Regression
 
 2️⃣ Install Dependencies
